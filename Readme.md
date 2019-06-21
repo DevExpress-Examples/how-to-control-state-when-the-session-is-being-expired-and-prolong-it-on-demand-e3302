@@ -7,6 +7,9 @@
 * [TimeOutPage.aspx](./CS/WebSite/TimeOutPage.aspx) (VB: [TimeOutPage.aspx](./VB/WebSite/TimeOutPage.aspx))
 <!-- default file list end -->
 # How to control state when the Session is being expired and prolong it on demand
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3302/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to create a timeout control for web sites (similar to what banks and other financial institutions have) that will display a modal popup dialog displaying the time remaining before a session is timed out and redirected to a page explaining what happened:<br />
